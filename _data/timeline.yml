@@ -1,0 +1,51 @@
+# Semester 1
+# ----------
+
+# Week 01
+- week: "01"
+  date: 2017-09-22
+  icon: flag-o
+  type: warning
+  content: |
+    Software-installatie
+    --------------------
+
+# Autumn
+- icon: leaf
+  type: default
+  content: |
+    {::nomarkdown}
+    Herfstperiode
+    {:/}
+
+# Christmas
+- icon: tree
+  type: default
+  content: |
+    {::nomarkdown}
+    Kerstperiode
+    {:/}
+
+# Easter
+- icon: sun-o
+  type: default
+  content: |
+    {::nomarkdown}
+    Paasperiode
+    {:/}
+
+# Summer
+- icon: plane
+  type: default
+  content: |
+    {::nomarkdown}
+    Zomerperiode
+    {:/}
+
+# End
+- icon: glass
+  type: success
+  content: |
+    {::nomarkdown}
+    Time for a drink!
+    {:/}

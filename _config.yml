@@ -1,0 +1,67 @@
+# Site settings
+# -------------
+baseurl : /1718-csse # the subpath of your site, e.g. /blog
+host    : 127.0.0.1
+port    : 4201
+
+# Course
+# ------
+syllabus-id       : 1718-CSSE
+
+hero_introduction : "Syllabus voor het opleidingsonderdeel Computer Science & Software Engineering"
+hero_image        : /syllabusv2-resources/assets/images/header-mobile.jpg
+words_per_minute  : 60
+
+
+# SEO
+# ---
+domain      : Artevelde University College Ghent
+subdomain   : Bachelor of Graphical and Digital Media
+title       : CSSE
+description : "Syllabus voor het opleidingsonderdeel Computer Science & Software Engineering"
+author      : Bachelor of Graphical and Digital Media | Artevelde University College Ghent
+copyright   : Copyright (c) 2010-2017 Artevelde University College Ghent. All Rights Reserved.
+
+# Google Services
+# ---------------
+google-analytics-tracking_id  :  "XX-XXXXXXXX-X"
+
+# Where things are from Jekyll
+# ----------------------------
+data_dir      : /_data
+includes_dir  : /syllabusv2-resources/_includes
+layouts_dir   : /syllabusv2-resources/_layouts
+# plugins_dir   : /syllabusv2-resources/_plugins
+
+# Build settings
+# --------------
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+sass:
+  sass_dir: /syllabusv2-resources/_sass
+  # style: compressed
+exclude:
+  - Gemfile
+  - LICENSE
+  - README.md
+
+# Collections
+# -----------
+collections:
+  faqs:
+    output: false
+
+# Defaults
+# --------
+defaults:
+  - scope:
+      type: faqs
+    values:
+      layout: course

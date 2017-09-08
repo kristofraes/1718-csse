@@ -1,0 +1,36 @@
+- name: Algemeen
+  folder: pages/general/
+  permalink: /introduction/
+  #nr: II
+  faicon: icon-info
+  activatenr: true
+  description: Algemene informatie over vanalles
+
+- name: Inhoud
+  folder: pages/content/
+  permalink: /inleiding/
+  #nr: II
+  faicon: icon-graduation-cap
+  activatenr: true
+  description: Inhoud informatie over vanalles 2
+
+# - name: Presentaties
+#   permalink: /presentations/
+#   #nr: II
+#   faicon: icon-easel
+#   activatenr: true
+#   description: Presentaties informatie over vanalles 3
+
+# - name: "Vragen & Antwoorden"
+#   permalink: /faq/
+#   #nr: II
+#   faicon: icon-lightbulb
+#   activatenr: true
+#   description: FAQ informatie over vanalles
+
+# - name: Nieuws
+#   permalink: /news/
+#   #nr: II
+#   faicon: icon-note
+#   activatenr: true
+#   description: News informatie over vanalles
