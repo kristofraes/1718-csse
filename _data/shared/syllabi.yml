@@ -46,9 +46,11 @@
   authors: # First is owner
     - OPR
     - PDP
+  domain-group: WANM
   programme:
     institute : AHS
     department: PBAGDM
+    semester: 1
 
 # Type: OLOD
 # ==========
@@ -66,6 +68,7 @@
   authors: # First is owner
     - AAD
     - EVR
+  domain-group: WANM
   evaluation-criteria: |
   content: |
   competences:
@@ -76,6 +79,7 @@
     department: PBAGDM
     major     : MMP
     minor     : AVD
+    semester  : 4
 
 # CMS Development
 # ---------------
@@ -90,6 +94,7 @@
   authors: # First is owner
     - OPR
     - FR
+  domain-group: WANM
   evaluation-criteria: |
   content: |
     - Content Management Systeem toepassen:
@@ -141,6 +146,7 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+    semester  : 5
   resources:
     chamilo-id: 13913
     ects-id   : 62777
@@ -164,6 +170,7 @@
   academic-year: 2017-2018
   authors: # First is owner
     - KR
+  domain-group: WANM
   evaluation-criteria: |
     De studenten krijgen in de loop van het semester 8 oefeningen/opdrachten die ze dienen op te lossen en tijdig in te dienen. Deze tellen mee voor 30% van de punten.
     Vier weken voor aanvang van de examenperiode, krijgen de studenten een examenopdracht. Deze moeten ze indienen voor de aanvang van de examenperiode.
@@ -226,6 +233,7 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+    semester  : 3
   resources:
     chamilo-id: 13874
     ects-id   : 65965
@@ -250,6 +258,7 @@
   academic-year: 2017-2018
   authors: # First is owner
     - PDP
+  domain-group: WANM
   evaluation-criteria: |
     De student:
     - zet een ontwikkelomgeving op die de aangeleerde workflow ondersteunt;
@@ -291,6 +300,7 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+    semester  : 3
   resources:
     chamilo-id: 13876
     ects-id   : 64256
@@ -315,6 +325,7 @@
   academic-year: 2017-2018
   authors: # First is owner
     - PDP
+  domain-group: WANM
   evaluation-criteria: |
   competences:
     start:
@@ -331,6 +342,7 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+    semester  : 4
   resources:
     chamilo-id: 0
     ects-id   : 0
@@ -354,10 +366,15 @@
     long : New Media Design I
   academic-year: 2017-2018
   authors: # First is owner
+    - DDW
+    - BM
+    - OPR
+  domain-group: WANM
   evaluation-criteria: |
   programme:
     institute : AHS
     department: PBAGDM
+    semester  : 2
 
 # New Media Design II
 # -------------------
@@ -372,6 +389,7 @@
   authors: # First is owner
     - BM
     - OPR
+  domain-group: WANM
   evaluation-criteria: |
   competences:
     start:
@@ -391,9 +409,10 @@
     institute : AHS
     department: PBAGDM
     major     : CMO
+    semester  : 3
   resources:
-    chamillo-id: 13862
-    ects-id    : 64429
+    chamilo-id: 13862
+    ects-id   : 64429
   workload:
     credits: 3
     breakdown:
@@ -415,10 +434,12 @@
   authors: # First is owner
     - BM
     - OPR
+  domain-group: WANM
   programme:
     institute : AHS
     department: PBAGDM
     major     : CMO
+    semester  : 4
 
 # Web Development I
 # -----------------
@@ -433,6 +454,7 @@
   authors: # First is owner
     - OPR
     - DDW
+  domain-group: WANM
   evaluation-criteria: |
   content: |
     - Opzetten van een lokale ontwikkelomgeving (HTTP-server en databaseserver).
@@ -472,9 +494,10 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+    semester  : 3
   resources:
-    chamillo-id: 13875
-    ects-id    : 65971
+    chamilo-id: 13875
+    ects-id   : 65971
   workload:
     credits: 6
     breakdown:
@@ -496,6 +519,7 @@
   authors: # First is owner
     - OPR
     - PDP
+  domain-group: WANM
   evaluation-criteria: |
   competences:
     start:
@@ -513,9 +537,10 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+    semester  : 4
   resources:
-    chamillo-id: 13877
-    ects-id    : 65990
+    chamilo-id: 13877
+    ects-id   : 65990
   workload:
     credits: 10
     hours:
@@ -543,6 +568,7 @@
     - FR
     - OPR
     - PDP
+  domain-group: WANM
   evaluation-criteria: |
     De student:
     - is vertrouwd met de gangbare vakterminologie van internet en webdesign;
@@ -581,6 +607,7 @@
   programme:
     institute : AHS
     department: PBAGDM
+    semester  : 1
   resources:
     chamilo-id: 13817
     ects-id   : 63942
@@ -603,7 +630,13 @@
     short: WEBTECH-II
     long : Web Technology II
   academic-year: 2017-2018
+  domain-group: WANM
   evaluation-criteria: |
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    semester  : 2
 
 # Web of Things
 # -------------
@@ -617,6 +650,7 @@
   academic-year: 2017-2018
   authors: # First is owner
     - PDP
+  domain-group: WANM
   content: |
     - Client-side scripting
       - HTML5 API's;
@@ -676,6 +710,7 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+    semester  : 5
   resources:
     chamilo-id: 13912
     ects-id   : 63014

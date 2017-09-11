@@ -1,10 +1,13 @@
 ---
 layout: course
-permalink: information/
+permalink: informatie/
 #
 title: Informatie
 ---
 {%- assign syllabus = site.data.shared.syllabi | where: 'id', site.syllabus-id | first %}
+{% include course/content/abbreviations-education.md %}
+{% include course/content/abbreviations-computer.md %}
+{% include course/content/hyperlinks-education.md %}
 
 ECTS
 ----
@@ -52,8 +55,3 @@ Professionele houding
 ---------------------
 
 {% include course/content/info-attitude.md %}
-
-
-{% include course/content/abbreviations-education.md %}
-{% include course/content/abbreviations-computer.md %}
-{% include course/content/hyperlinks-education.md %}

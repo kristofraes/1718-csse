@@ -1,6 +1,6 @@
 ---
 layout: course
-permalink: introduction/
+permalink: introductie/
 #
 title: Introductie
 ---

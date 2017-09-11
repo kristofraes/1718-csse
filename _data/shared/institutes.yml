@@ -58,3 +58,8 @@
       name:
         en: Print Media
         nl: Printmedia
+  domain-groups:
+    - id: WANM
+      name:
+        en: "Web & New Media"
+        nl: "Web & New Media"

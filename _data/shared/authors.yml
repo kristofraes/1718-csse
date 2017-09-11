@@ -41,6 +41,7 @@
   name:
     full : Dieter De Weirdt
     short: D. De Weirdt
+  image  : ddw.jpg
   contact:
     email  : dieter.deweirdt@arteveldehs.be
     website: http://www.gdm.gent
@@ -76,6 +77,7 @@
   name:
     full : Jonas Pottie
     short: J. Pottie
+  image  : jpt.jpg
   contact:
     email  : jonas.pottie@arteveldehs.be
     website: http://www.gdm.gent
@@ -90,17 +92,6 @@
   image  : kr.jpg
   contact:
     email  : kristof.raes@arteveldehs.be
-    website: http://www.gdm.gent
-  title:
-    en: lecturer
-    nl: docent
-
-- id: LMCF
-  name:
-    full : Liliana Maria Carrillo Flórez
-    short: L. Carrillo
-  contact:
-    email  : lilianamaria.carrilloflorez@arteveldehs.be
     website: http://www.gdm.gent
   title:
     en: lecturer
@@ -134,7 +125,7 @@
   name:
     full : Stijn Anseel
     short: S. Anseel
-  image  : sta.jpg
+  image  : sa.jpg
   contact:
     email  : stijn.anseel@arteveldehs.be
     website: http://www.gdm.gent
