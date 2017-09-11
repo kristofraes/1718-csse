@@ -32,19 +32,20 @@
 # Type: MODULE
 # ============
 
-# Information Communication Technology
-# ------------------------------------
+# Eerste Hulp Bij Installatie
+# ---------------------------
 
-- id: 1718-ICT
+- id: 1718-EHBI
   type: MODULE
   lang: nl
   color: primary
   title:
-    short: ICT
-    long : Information Communication Technology
+    short: EHBI
+    long : Eerste Hulp Bij Installatie
   academic-year: 2017-2018
   authors: # First is owner
     - OPR
+    - KR
     - PDP
   domain-group: WANM
   programme:
@@ -391,10 +392,15 @@
     - OPR
   domain-group: WANM
   evaluation-criteria: |
+    - De student ontwerpt gebruikersinterfaces voor nieuwe media.
+    - De student maakt een productiedossier;
+    - Doorheen het ontwerp- en ontwikkelproces, past de student de aangeleerde projectmethodologie in de juiste volgorde en op een correcte manier toe.
   competences:
     start:
-      - "Webdesign I"
-      - "Webdesign II"
+      - Grafische Vormgeving I
+      - Lay-out & Digitale Opmaak
+      - Webdesign I
+      - Webdesign II
     end:
       - ["ALG/005", "Niveau 2"]
       - ["ALG/011", "Component"]
@@ -405,6 +411,25 @@
       - ["GDM/210", "Component"]
       - ["MMP/201", "Component"]
       - ["MMP/204", "Niveau 2"]
+  content: |
+    - User Experience Design;
+    - Frontend frameworks voor web en mobile design;
+    - CSS Flex-box;
+    - CSS Preprocessor.
+  course-materials: |
+    - Cursusteksten:
+      - Cursus via Chamilo (Arteveldehogeschool)
+      - [Online Syllabus][1718-nmd2]
+    - Uitrustings- en werkmateriaal:
+      - [Adobe Creative Cloud][]
+      - [Microsoft Visual Studio Code][]
+  objectives: |
+    De student:
+      - interpreteert en analyseert de opdracht;
+      - doet aan UXD (User Experience Design) voor gebruikersinterfaces van nieuwe media;
+      - maakt een digitaal productiedossier;
+      - publiceert een statische webapplicatie;
+      - voert bovenstaande aspecten uit, rekening houdend met de aangeleerde projectmethodologie.
   programme:
     institute : AHS
     department: PBAGDM
@@ -420,6 +445,78 @@
       - "Praktijk"             : 18
       - "Taken in zelfstudie"  : 54
     weekly-study-commitment: ["6 uur"]
+
+# New Media Design II STDV
+# ------------------------
+- id: 1718-NMD2-STDV
+  type: OLOD
+  lang: nl
+  color: primary
+  title:
+    short: NMD-II-STDV
+    long : New Media Design II STDV
+  academic-year: 2017-2018
+  authors: # First is owner
+    - EVR
+  domain-group: WANM
+  evaluation-criteria: |
+    - De student werkt een crossmediaal project uit op grafisch en technisch vlak;
+    - Doorheen bovengenoemd ontwerp- en ontwikkelproces, past de student de projectmethodologie en technologie in de juiste volgorde en op een correcte manier toe.
+  competences:
+    start:
+      - "Grafische Vormgeving I"
+      - "Lay-out & Digitale Opmaak"
+      - "Webdesign II"
+    end:
+      - ["ALG/005", "Niveau 2"]
+      - ["ALG/011", "Component"]
+      - ["CMO/104", "Component"]
+      - ["CMO/105", "Component"]
+      - ["CMO/107", "Niveau 1"]
+      - ["CMO/201", "Niveau 1"]
+      - ["GDM/210", "Component"]
+      - ["MMP/201", "Component"]
+      - ["MMP/204", "Niveau 2"]
+  content: |
+    - Responsive webdesign, mobile first;
+    - Responsive e-mails;
+    - Werken met frontend frameworks;
+    - JavaScript;
+    - Geavanceerde UX.
+  course-materials: |
+    - Cursusteksten:
+      - Cursus via Chamilo (Arteveldehogeschool)
+      - [Online Syllabus][1718-nmd2-stdv]
+    - Uitrustings- en werkmateriaal:
+      - [Adobe Creative Cloud][]
+      - [Microsoft Visual Studio Code][]
+  objectives: |
+    De student:
+      - interpreteert en analyseert een geavanceerde opdracht en plant deze;
+      - bouwt een geavanceerde, gebruiksvriendelijke en toegankelijke website met geldige, semantische HTML en geldige CSS met nodige aanvulling van JavaScript;
+      - gebruikt aangeleerde frameworks;
+      - zet een logische mappen- en bestandsstructuur op voor een geavanceerde website
+      - ontwerpt en ontwikkelt met de aangeleerde tools een volledige statische webapplicatie;
+      - publiceert een statische webapplicatie naar het web;
+      - documenteert alles in een productiedossier;
+      - is in staat het project grafisch en marketinggewijs uit te werken;
+      - voert op zelfstandige basis bovenstaande aspecten uit rekening houdend met de aangeleerde projectmethodologie.
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : CMO
+    semester  : 3
+  resources:
+    chamilo-id: 13928
+    ects-id   : 65000
+  workload:
+    credits: 4
+    breakdown:
+      - "Hoor- en werkcolleges": 18
+      - "Praktijk"             : 18
+      - "Taken in zelfstudie"  : 54
+      - "Zelfstudie"           : 20
+    weekly-study-commitment: ["8,5 uur"]
 
 # New Media Design III
 # --------------------
