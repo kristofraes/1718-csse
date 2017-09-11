@@ -1,6 +1,6 @@
 - name: Algemeen
   folder: pages/general/
-  permalink: /introduction/
+  permalink: /introductie/
   #nr: II
   faicon: icon-info
   activatenr: true
