@@ -71,16 +71,57 @@
     - EVR
   domain-group: WANM
   evaluation-criteria: |
+    - De student zet een lokale ontwikkelomgeving voor een CMS op en een geautomatiseerde workflow.
+    - De student installeer een CMS en stelt het in.
+    - De student voegt inhoud toe en beheert de gebruikers.
+    - De student ontwerpt en ontwikkelt een thema en uitbreidingen volgens de opdracht.
+    - De student plaatst het CMS op webhosting.
+    - De student houdt bij het ontwerpen rekening met User Experience.
+    - Doorheen dit ontwikkelproces, past de student de projectmethodologie in de juiste volgorde en op een correcte manier toe.
   content: |
+    - Content Management Systeem toepassen:
+      - opzetten van een lokale ontwikkelomgeving en een geautomatiseerde workflow;
+      - installatie en configuratie;
+      - beheer van inhoud en gebruikers;
+      - ontwikkelen van thema's en uitbreidingen op maat van de klant;
+      - in gebruik nemen;
+      - onderhoud (updates installeren en gegevens back-uppen).
+    - User Experience Design
   competences:
     start:
+      - "Toegepaste Informatica"
+      - "Web Design & Development I"
+      - "Webdesign I"
+      - "Webdesign II"
     end:
+      - ["GDM/211", "Component"]
+      - ["MMP/204", "Component"]
+      - ["MMP/205", "Component"]
+  course-materials: |
+    - Cursusteksten:
+      - Cursus via Chamilo (Arteveldehogeschool)
+      - [Online Syllabus][1718-CMS]
+      - Online Tutorials
+    - Uitrustings- en werkmateriaal:
+      - [Adobe Creative Cloud][]
+      - [JetBrains Toolbox App][]
+      - [Microsoft Visual Studio Code][]
   programme:
     institute : AHS
     department: PBAGDM
     major     : MMP
     minor     : AVD
-    semester  : 4
+    semester  : 3
+  resources:
+    chamilo-id: 13879
+    ects-id   : 66012
+  workload:
+    credits: 8
+    breakdown:
+      - "Hoor- en werkcolleges":  45
+      - "Taken in zelfstudie"  : 194
+      - "Toets- en examentijd" :   1
+    assignment-commitment: ["240 uur", "6 weken"]
 
 # CMS Development
 # ---------------
