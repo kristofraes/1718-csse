@@ -1,6 +1,6 @@
-# --------------
-# DO NOT MODIFY!
-# --------------
+# # # # # # # # # #
+# DO NOT MODIFY!  #
+# # # # # # # # # #
 course-materials: |
   [Adobe Creative Cloud]:                       https://www.adobe.com/be_nl/creativecloud.html
   [Jetbrains Toolbox App]:                      https://www.jetbrains.com/toolbox/app/
@@ -28,6 +28,9 @@ syllabi: |
   [1718-CSSE]:                                  http://www.gdm.gent/1718-csse
   [1718-CMS]:                                   http://www.gdm.gent/1718-cms
   [1718-CMSDEV]:                                http://www.gdm.gent/1718-cmsdev
+  [1718-GD2]:                                   http://www.gdm.gent/1718-gd2
+  [1718-GD3]:                                   http://www.gdm.gent/1718-gd3
+  [1718-GD4]:                                   http://www.gdm.gent/1718-gd4
   [1718-MOBDEV1]:                               http://www.gdm.gent/1718-mobdev1
   [1718-MOBDEV2]:                               http://www.gdm.gent/1718-mobdev2
   [1718-NMD1]:                                  http://www.gdm.gent/1718-nmd1

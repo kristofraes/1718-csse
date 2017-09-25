@@ -1,6 +1,6 @@
-# --------------
-# DO NOT MODIFY!
-# --------------
+# # # # # # # # # #
+# DO NOT MODIFY!  #
+# # # # # # # # # #
 - id: AHS
   name: 
     en: Artevelde University College Ghent
@@ -63,3 +63,7 @@
       name:
         en: "Web & New Media"
         nl: "Web & New Media"
+    - id: CMO
+      name:
+        en: Cross-media Design
+        nl: Crossmedia-ontwerp
