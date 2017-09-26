@@ -10,6 +10,15 @@
     Eerste Hulp Bij Installatie
     ---------------------------
 
+# Week 02
+- week: "02"
+  date: 2017-09-26
+  icon: flag-o
+  type: warning
+  content: |
+    Eerste Hulp Bij Installatie
+    ---------------------------
+
 # Autumn
 - icon: leaf
   type: default
