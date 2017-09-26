@@ -1,6 +1,6 @@
-# --------------
-# DO NOT MODIFY!
-# --------------
+# # # # # # # # # #
+# DO NOT MODIFY!  #
+# # # # # # # # # #
 
 # Type: DOM
 # =========
@@ -287,6 +287,72 @@
       - "Zelfstudie"           : 30
       - "Toets- en examentijd" :  3
     assignment-commitment: ["120 uur", "4 weken"]
+
+# Graphic Design II
+# -----------------
+- id: 1718-GD2
+  type: OLOD
+  lang: nl
+  color: primary
+  title:
+    short: GD-II
+    long : Graphic Design II
+  academic-year: 2017-2018
+  authors: # First is owner
+    - SA
+    - BM
+    - CV
+    - JB
+    - JDM
+  domain-group: CMO
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : CMO
+    semester  : 3
+
+# Graphic Design III
+# ------------------
+- id: 1718-GD3
+  type: OLOD
+  lang: nl
+  color: primary
+  title:
+    short: GD-III
+    long : Graphic Design III
+  academic-year: 2017-2018
+  authors: # First is owner
+    - SA
+    - CV
+    - JB
+    - JT
+  domain-group: CMO
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : CMO
+    semester  : 4
+
+# Graphic Design IV
+# -----------------
+- id: 1718-GD4
+  type: OLOD
+  lang: nl
+  color: primary
+  title:
+    short: GD-IV
+    long : Graphic Design IV
+  academic-year: 2017-2018
+  authors: # First is owner
+    - SA
+    - JDL
+  domain-group: CMO
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : CMO
+    minor     : GD
+    semester  : 5
 
 # Mobile Development I
 # --------------------
@@ -578,6 +644,65 @@
     department: PBAGDM
     major     : CMO
     semester  : 4
+
+# New Media Technology I
+# ----------------------
+- id: 1718-NMTECH1
+  type: OLOD
+  lang: nl
+  color: primary
+  title:
+    short: NMTECH1
+    long : New Media Technology I
+  academic-year: 2017-2018
+  authors: # First is owner
+    - DDW
+  domain-group: WANM
+  evaluation-criteria: |
+  content: |
+    - Trends in nieuwe media.
+    - Technische topics die van belang zijn bij het maken van het werkstuk.
+    - Opzetten van een lokale ontwikkelomgeving (HTTP-server, databaseserver en programmeertaal).
+    - Inleiding tot SQL en SQL-query's.
+    - Inleiding tot PHP en MySQL.
+    - Introductie tot Content Management Systemen.
+    - Content Management Systeem (gebaseerd op PHP): lokaal installeren, configureren en gebruiken. Aanmaken van thema's en de functionaliteit van het CMS uitbreiden.
+  competences:
+    start:
+      - "Webdesign I"
+      - "Webdesign II"
+    end:
+      - ["GMB/108", "De bachelor is bekwaam om bij de uitoefening van zijn taken rekening te houden met de mogelijkheden en beperkingen van de nieuwe mediatechnologie."]
+      - ["GMT/102", "De bachelor is bekwaam om de drukvoorbereidingsactiviteiten uit te voeren en te ondersteunen."]
+  course-materials: |
+    - Cursusteksten:
+      - Cursus via Chamilo (Arteveldehogeschool)
+      - [Online Syllabus][1718-NMTECH1]
+      - Online Tutorials
+    - Uitrustings- en werkmateriaal:
+      - [Adobe Creative Cloud][]
+      - [Microsoft Visual Studio Code][]
+  objectives: |
+    De student kan:
+    - kan werken met een relationele databasemangementsystemen en query's schrijven;
+    - kan een CMS installeren, configureren en gebruiken;
+    - kan een thema voor het CMS maken en de functionaliteit uitbreiden.
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : GMB
+    minor     : CM
+    semester  : 6
+  resources:
+    chamilo-id: 13850
+    ects-id   : 64244
+  workload:
+    credits: 5
+    breakdown:
+      - "Hoor- en werkcolleges":  18
+      - "Taken in zelfstudie"  : 125
+      - "Toets- en examentijd" :   1
+    assignment-commitment: ["162 uur", "4,2 weken"]
 
 # Web Development I
 # -----------------
