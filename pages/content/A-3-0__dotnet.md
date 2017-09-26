@@ -13,5 +13,6 @@ Volg hierbij de stappen op [https://code.visualstudio.com/docs/other/dotnet](htt
 
 
 Referenties:
-[https://code.visualstudio.com/docs/other/dotnet](https://code.visualstudio.com/docs/other/dotnet)
-[https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code)
+ 
+ - [https://code.visualstudio.com/docs/other/dotnet](https://code.visualstudio.com/docs/other/dotnet)
+ - [https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code)
