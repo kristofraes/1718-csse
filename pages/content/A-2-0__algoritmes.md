@@ -8,4 +8,4 @@ title: Basis
 ## Keuze/selectie
 ## Herhaling/iteratie
 
-Referentie: https://nl.wikibooks.org/wiki/Programmeren,_de_basis/De_controlestructuren
+Referentie: [https://nl.wikibooks.org/wiki/Programmeren,_de_basis/De_controlestructuren](https://nl.wikibooks.org/wiki/Programmeren,_de_basis/De_controlestructuren)
