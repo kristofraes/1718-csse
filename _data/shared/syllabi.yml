@@ -223,7 +223,7 @@
       - Data Structures
         - Data types
         - Linear data structures
-      - Courante dataformaten
+      - Courante dataformaten;
       - Open Data
       - Big Data
       - Databases
@@ -692,7 +692,7 @@
     department: PBAGDM
     major     : GMB
     minor     : CM
-    semester  : 6
+    semester  : 3
   resources:
     chamilo-id: 13850
     ects-id   : 64244
@@ -703,6 +703,61 @@
       - "Taken in zelfstudie"  : 125
       - "Toets- en examentijd" :   1
     assignment-commitment: ["162 uur", "4,2 weken"]
+
+# New Media Technology II
+# -----------------------
+- id: 1718-NMTECH2
+  type: OLOD
+  lang: nl
+  color: primary
+  title:
+    short: NMTECH2
+    long : New Media Technology II
+  academic-year: 2017-2018
+  authors: # First is owner
+    - DDW
+  domain-group: WANM
+  evaluation-criteria: |
+  content: |
+    - Trends in nieuwe media.
+    - Technische topics die van belang zijn bij het maken van het werkstuk.
+  competences:
+    start:
+      - "Webdesign I"
+      - "Webdesign II"
+      - "Crossmedia Publishing"
+    end:
+      - ["GMB/108", "De bachelor is bekwaam om bij de uitoefening van zijn taken rekening te houden met de mogelijkheden en beperkingen van de nieuwe mediatechnologie."]
+  course-materials: |
+    - Cursusteksten:
+      - Cursus via Chamilo (Arteveldehogeschool)
+      - [Online Syllabus][1718-NMTECH2]
+      - Online Tutorials
+    - Uitrustings- en werkmateriaal:
+      - [Adobe Creative Cloud][]
+      - [Microsoft Visual Studio Code][]
+      - [MAMP][]
+  objectives: |
+    De student kan:
+    - heeft inzicht in de nieuwe trends op het vlak van digitale communicatie en kan hierover een kritische opinie formuleren op basis van eigen opzoekwerk waarin men o.a. de impact ervan evalueert;
+    - bouwt een multichannel werkstuk en stelt hiervoor de nodige werkdocumenten op die gebruikelijk zijn voor informatiearchitectuur en interactieontwerp (sitemap, wireframes en/of wireflows); maakt hiervoor eenvoudige voorstudies (ideaboard, moodboard, style tiles); maakt hiervoor een eenvoudig ontwerp (visual designs);
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : GMB
+    minor     : CM
+    semester  : 5
+  resources:
+    chamilo-id: 13896
+    ects-id   : 64391
+  workload:
+    credits: 5
+    breakdown:
+      - "Hoor- en werkcolleges":  18
+      - "Praktijk":  18
+      - "Taken in zelfstudie"  : 100
+      - "Toets- en examentijd" :   1
+    assignment-commitment: ["137 uur", "3,6 weken"]
 
 # Web Development I
 # -----------------
