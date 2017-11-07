@@ -8,7 +8,7 @@
 
 - name: Inhoud
   folder: pages/content/
-  permalink: /week-01/
+  permalink: /dataintro/
   #nr: II
   faicon: icon-graduation-cap
   activatenr: true

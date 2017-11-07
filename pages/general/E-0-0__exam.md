@@ -4,4 +4,3 @@ permalink: exam/
 #
 title: Examen
 ---
-

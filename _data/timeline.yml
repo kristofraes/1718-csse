@@ -3,20 +3,47 @@
 
 # Week 01
 - week: "01"
-  date: 2017-09-22
-  icon: flag-o
-  type: warning
-  content: |
-    Eerste Hulp Bij Installatie
-    ---------------------------
-
-# Week 02
-- week: "02"
   date: 2017-09-26
   icon: flag-o
   type: warning
   content: |
-    Eerste Hulp Bij Installatie
+    Data en datatypes
+    ---------------------------
+
+# Week 02
+- week: "02"
+  date: 2017-10-03
+  icon: flag-o
+  type: warning
+  content: |
+    Basis C#, iteratie, sequentie
+    ---------------------------
+
+# Week 03
+- week: "03"
+  date: 2017-10-10
+  icon: flag-o
+  type: warning
+  content: |
+    Datastructuren
+    ---------------------------
+
+# Week 04
+- week: "04"
+  date: 2017-10-17
+  icon: flag-o
+  type: warning
+  content: |
+    Oefeningen
+    ---------------------------
+
+# Week 05
+- week: "05"
+  date: 2017-10-24
+  icon: flag-o
+  type: warning
+  content: |
+    Klassen
     ---------------------------
 
 # Autumn
@@ -26,6 +53,123 @@
     {::nomarkdown}
     Herfstperiode
     {:/}
+
+# Week 06
+- week: "06"
+  date: 2017-11-07
+  icon: flag-o
+  type: warning
+  content: |
+    Klassen
+    ---------------------------
+
+# Week 07
+- week: "07"
+  date: 2017-11-14 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 07
+- week: "07"
+  date: 2017-11-16 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 08
+- week: "08"
+  date: 2017-11-21 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 08
+- week: "08"
+  date: 2017-11-23 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 09
+- week: "09"
+  date: 2017-11-28
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 09
+- week: "09"
+  date: 2017-11-30 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 10
+- week: "10"
+  date: 2017-12-05 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 10
+- week: "10"
+  date: 2017-12-07 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 11
+- week: "11"
+  date: 2017-12-12 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 11
+- week: "11"
+  date: 2017-12-14 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 12
+- week: "12"
+  date: 2017-12-19
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
+
+# Week 12
+- week: "12"
+  date: 2017-12-21 
+  icon: flag-o
+  type: warning
+  content: |
+    TBD
+    ---------------------------
 
 # Christmas
 - icon: tree
