@@ -1,6 +1,6 @@
 ---
 layout: course
-permalink: objecten/
+permalink: umlintro/
 #
 title: UML
 ---
@@ -11,5 +11,6 @@ Een tool om dit gemakkelijk te doen is [StarUML](http://staruml.io)
 
 Voorbeeld:
 [UML-schema, Book](https://i.stack.imgur.com/vCgMF.png)
+
 Symbolen:
 [http://www.conceptdraw.com/How-To-Guide/picture/Design-elements-UML-class-diagrams.png]

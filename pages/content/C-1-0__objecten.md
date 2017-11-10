@@ -30,6 +30,7 @@ De basisklasse/superklasse is de hoogste klasse en de subklasse of afgeleide kla
 # Polymorfisme
 Een object kan voorkomen in meerdere gedaantes.
 Het komt erop neer dat een object van subklasse kan gezien worden of als element van een superklasse en dus ook de eigenschappen en methoden van die superklasse kan gebruiken.
+Polymorfisme betekent letterlijk veelvormigheid.
 
 # Inkapsulatie of inkapseling
 Bij inkapseling men ervoor zorgen dat men een of meer items gaat insluiten in een fysieke of logische package.
