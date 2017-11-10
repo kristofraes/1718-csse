@@ -27,10 +27,14 @@ Men spreekt dan van een basisklasse en een superklasse.
 
 De basisklasse/superklasse is de hoogste klasse en de subklasse of afgeleide klasse bevat dan alle attributen en methodes van de superklasse.
 
+[Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance)
+
 # Polymorfisme
 Een object kan voorkomen in meerdere gedaantes.
 Het komt erop neer dat een object van subklasse kan gezien worden of als element van een superklasse en dus ook de eigenschappen en methoden van die superklasse kan gebruiken.
 Polymorfisme betekent letterlijk veelvormigheid.
+
+[Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism)
 
 # Inkapsulatie of inkapseling
 Bij inkapseling men ervoor zorgen dat men een of meer items gaat insluiten in een fysieke of logische package.
@@ -46,3 +50,5 @@ Volgende access specifiers zijn van toepassing:
 - protected, in dezelfde klasse of elke klasse die overerft van de klasse
 - internal, in dezelfde assembly, maar niet van een andere assembly.
 - protected internal, in de assembly waar die gedeclareerd is of van een overervende klasse in een andere assembly.
+
+[Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)
