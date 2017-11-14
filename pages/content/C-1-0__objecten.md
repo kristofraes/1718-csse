@@ -98,7 +98,7 @@ Dit belangrijk om weten wanneer je gebruik gaat maken van collections van value 
 - Je dient geen new te gebruiken zoals bij klassen wanneer je een instantie maakt van een struct.
 - Je kan niet overerven van een andere struct of klasse, en het kan ook niet de basisklasse zijn van een klasse. Elke struct erft over van System.ValueType welke overerft van System.Object.
 - Een struct kan interfaces implementeren.
-- een struct kan gebruikt worden als een nullable type and kan null waarde toegewezen worden.
+- Een struct kan gebruikt worden als een nullable type and kan null waarde toegewezen worden.
 
 {% highlight cs linenos %}
 // Met onderstaande code maak je een struct, 
