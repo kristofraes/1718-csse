@@ -305,3 +305,5 @@ Een for loop of ook wel begrensde herhaling is er op voorhand vastgelegd hoeveel
             
     }
 {% endhighlight %}
+
+[Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index)
