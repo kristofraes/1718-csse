@@ -78,7 +78,7 @@
   icon: flag-o
   type: warning
   content: |
-    TBD
+    interfaces
     ---------------------------
 
 # Week 08
@@ -96,7 +96,7 @@
   icon: flag-o
   type: warning
   content: |
-    TBD
+    abstract, patterns
     ---------------------------
 
 # Week 09
@@ -105,7 +105,7 @@
   icon: flag-o
   type: warning
   content: |
-    TBD
+    aaS, toepassingen, patterns oefeningen
     ---------------------------
 
 # Week 09
