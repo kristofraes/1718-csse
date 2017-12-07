@@ -1,6 +1,6 @@
 ---
 layout: course
-permalink: exceptions/
+permalink: events/
 #
 title: Events
 ---
