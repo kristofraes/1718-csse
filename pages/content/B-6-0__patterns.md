@@ -1,8 +1,8 @@
 ---
 layout: course
-permalink: exceptions/
+permalink: patterns/
 #
-title: Exceptions
+title: Patterns
 ---
 
 [Referentie](http://www.dofactory.com/net/design-patterns)
