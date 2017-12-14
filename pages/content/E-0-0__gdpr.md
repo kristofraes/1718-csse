@@ -4,6 +4,7 @@ permalink: gdpr/
 #
 title: GDPR
 ---
+
 - Waarvoor staat GDPR?
 - Wat is een opt-in?
 - Wat is een opt-out?
