@@ -20,5 +20,23 @@ Opgelet: gender is van het type Char, dus neem volgende in acht:
     - Maak een lijst aan met minimaal 5 instanties van het type Postcode.
     Gegevens om in te vullen in de datacollectie kan je vinden in de [Excelsheet](http://www.bpost2.be/zipcodes/files/zipcodes_alpha_nl.xls?_ga=2.170740832.1384631120.1510665399-1085650226.1510665399) van Bpost. 
 Indienen:
-- Maak een repository an met de naam *1718-csse-code* via je eigen account (met je login van AHS) op GitHub. In de folder van je repository maak je een folder opdrachtweek6 aan waarin je uw project gaat aanmaken en opslaan. Tussentijds voer je een commit en push uit naar je GitHub repo.
+- Maak een repository aan met de naam *1718-csse-code* via je eigen account (met je login van AHS) op GitHub. In de folder van je repository maak je een folder opdrachtweek6 aan waarin je uw project gaat aanmaken en opslaan. Tussentijds voer je een commit en push uit naar je GitHub repo.
 - Deadline: donderdag 16/11/2017 om 14 uur.
+
+## Opdracht 4, week 11
+- 1) Maak een custom event NumberReached aan.
+Dit event zal uitgevoerd worden telkens je de maximumwaarde/maximumgetal bereikt die je vooraf opgeeft.
+- 2) Voorzie de nodige delegate welke zal dienen als event handler.
+Deze zal de timestamp, thread en getal afdrukken in de console.
+Daarna ga je de thread stoppen, voorzie erin dat je applicatie niet stopt door een exception...
+- 3) Bij het starten van de applicatie dien je een maximumgetal op te geven.
+- 3) Voorzie minimum 3 threads met elk volgende uitwerking:
+- 3a) Thread 1: Gebruiker geeft zelf een willekeurig getal in via de console tot hij het maximumgetal heeft ingegeven.
+- 3b) Thread 2: Voorzie een lus die getallen gaat overlopen van 0 tot maximumwaarde.
+- 3c) Thread 3: Voorzie een lus die telkens een random getal gaat kiezen tot het maximumgetal is gekozen.
+
+[Voor voorbeelden van events, delegates, threads,... zie code repository week11, 10, 09,...](https://github.com/gdmgent/1718-csse-code/).
+
+Indienen:
+- Maak een repository aan met de naam *1718-csse-code* via je eigen account (met je login van AHS) op GitHub. In de folder van je repository maak je een folder opdrachtweek11 aan waarin je uw project gaat aanmaken en opslaan. Tussentijds voer je een commit en push uit naar je GitHub repo.
+- Deadline: zaterdag 16/12/2017 om 18 uur.
