@@ -138,8 +138,6 @@ Je dient open en transparant te communiceren over wat je gaat doen met de data e
 
 
 Referenties:
-[Referentie GDPR NL](http://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32016R0679&from=NL)
-
-[Referentie GDPR EN](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=NL)
-
-[Referentie GDPR portal] (http://ec.europa.eu/justice/data-protection/)
+ - [Referentie GDPR NL](http://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32016R0679&from=NL)
+ - [Referentie GDPR EN](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=NL)
+ - [Referentie GDPR portal](http://ec.europa.eu/justice/data-protection/)
