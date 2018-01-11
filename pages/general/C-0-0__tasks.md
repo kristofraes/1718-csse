@@ -4,6 +4,107 @@ permalink: tasks/
 #
 title: Opdracht
 ---
+## Opdracht 1, week 3
+Voor opdracht 1 van week 3 dien je dus het volgende uit te werken:
+ - Aan de hand van de input van een getal, welke het vermenigvuldigtal is, (eigen ingave via terminal) dien je de vermenigvuldigingstafel op te stellen van dat getal. 
+
+Vooorbeeld:
+  - vermenigvuldigtal: 7
+  - vermenigvuldigingstafel:
+0 x 7 = 0
+1 x 7 = 7
+2 x 7 = 14
+3 x 7 = 21
+4 x 7 = 28
+5 x 7 = 35
+6 x 7 = 42
+7 x 7 = 49
+8 x 7 = 56
+9 x 7 = 63
+10 x 7 = 70
+
+ - Je gaat dus een loop nodig hebben voor de vermenigvuldigingstafel op te stellen.
+ - Het resultaat zoals het voorbeeld zal je afdrukken in de console bij het uitvoeren van de loop.
+ - Het resultaat zal je ook moeten opslaan in 3 verschillende datacollecties, je mag zelf kiezen welke je hiervoor gebruikt (voorbeeld: arrays, list, hashtable,...).
+ Als alle elementen opgeslagen zijn in de datacollecties dien je elke datacollectie te overlopen en elk opgeslagen element af te drukken in de console.
+ - Denk er ook aan dat je dient te werken met opsplitsing van functionaliteiten dus concreet opdelen van problemen in deelproblemen die resulteren in methodes, functies,...
+
+ - Indienen van de oplossing:
+ Maak een repository aan met de naam 1718-csse-code via je eigen account (met je login van AHS) op GitHub.
+ In de folder van je repository maak je een folder opdrachtweek3 aan waarin je uw project gaat aanmaken en opslaan. Tussentijds voer je een commit en push uit naar je GitHub repo.
+
+- Deadline: dinsdag 17/10 om 14 uur.
+Codevoorbeelden van vorige les (les 3, 10/10/2017) kan je vinden op: [https://github.com/gdmgent/1718-csse-code](https://github.com/gdmgent/1718-csse-code).
+
+## Opdracht 2, week 4
+
+Voor opdracht 2 van week 4 dien je dus het volgende uit te werken:
+ 
+### Oefening 1:
+Aan de hand van de input van een geheel getal (tot maximum 100) ga je volgende acties ondernemen:
+Alle getallen overlopen van 0 tot het gekozen getal en deze afdrukken in de console.
+
+Voorbeeld:
+Input: 12
+Output:
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+ 
+Je gaat per geheel getal, vanaf 0 tot het gekozen getal (input), gaan kijken of het een priemgetal is.
+Een priemgetal is een getal dat slechts deelbaar is door 1 en zichzelf.
+
+Voorbeeld:
+ - Input: 12
+Output:
+ - 0 is geen priemgetal.
+ - 1 is geen priemgetal.
+ - 2 is een priemgetal.
+ - 3 is een priemgetal.
+ - 4 is geen priemgetal.
+ - 5 is een priemgetal.
+ - 6 is geen priemgetal.
+ - 7 is een priemgetal.
+ - 8 is geen priemgetal.
+ - 9 is geen priemgetal.
+ - 10 is geen priemgetal.
+ - 11 is een priemgetal.
+ - 12 is geen priemgetal.
+ 
+### Oefening 2:
+ 
+Aan de hand van de input van een geheel getal ga je het aantal elementen bepalen in de rij van Fibonacci.
+De elementen druk je af via de console, zie voorbeeld (output) hieronder.
+De rij van Fibonacci begint met 0 en 1, vervolgens is elk volgend element in de rij steeds de som van de twee vorige elementen.
+
+Voorbeeld:
+ - Input: 8
+ - Output:
+  0
+  1
+  1
+  2
+  3
+  5
+  8
+  13
+ 
+Denk er ook aan dat je dient te werken met opsplitsing van functionaliteiten dus concreet opdelen van problemen in deelproblemen die resulteren in methodes, functies,...
+ 
+Indienen van de oplossing:
+- Maak een repository aan met de naam 1718-csse-code, indien je deze nog niet hebt aangemaakt, via je eigen account (met je login van AHS) op GitHub. In de folder van je repository maak je een folder opdrachtweek4 aan waarin je uw project gaat aanmaken en opslaan.
+- Tussentijds voer je een commit en push uit naar je GitHub repo.
+- Deadline: Maandag 23/10, 18 uur stipt.
 
 ## Opdracht 3, week 6
 - 1a) Zet het [UML schema](https://i.stack.imgur.com/vCgMF.png) om in de nodige klasses met de nodige onderdelen (constructor(s), velden, getters, setters, methoden, access specifiers,...).

@@ -86,3 +86,26 @@ Deze structuren welke resulteren in arrays, klasse, lijsten,... die samengesteld
 
 ### String
 Is een reeks van karakters.
+
+### Conversie
+Converteren van datatype wil eigenlijk zeggen dat je het huidige datatype wil wijzigen in een ander datatype.
+
+#### Convert klasse
+Uitvoeren van een conversie kan je doen via de Convert klasse.
+Je kan bijvoorbeeld een double waarde in een sbyte datatype steken.
+
+{% highlight cs linenos %}
+    sbyte csb = Convert.ToSByte(2.41255);
+    Console.WriteLine("Converteren van double naar sbyte: {0}", csb);
+{% endhighlight %}
+
+[Referentie Convert klasse](https://msdn.microsoft.com/en-us/library/system.convert.aspx)
+[Referentie Convert methodes](https://msdn.microsoft.com/en-us/library/system.convert_methods.aspx)
+
+#### Impliciete en expliciete conversie.
+{% highlight cs linenos %}
+int r = 5.0; // Geen impliciete conversie voor double naar int.
+int s = (int)5.0; // Expliciete conversie.
+{% endhighlight %}
+
+[Referentie voorbeelden code repo.](https://github.com/gdmgent/1718-csse-code/tree/master/week02)
